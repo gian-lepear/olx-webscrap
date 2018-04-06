@@ -1,0 +1,2 @@
+Chave do google API = 'AIzaSyDsIbQzmDewD3hyoDjXs7Tw81HeWcL3l3M'
+ADICIONAR NO GITIGNORE
